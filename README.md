@@ -25,4 +25,4 @@ FTXUI 是一个功能强大的 C++ TUI (终端用户界面) 框架，但其官�
 
 ## 官方频道
 
-(冥河工作室)[https://t.me/StyxTechStudio]
+[冥河工作室](https://t.me/StyxTechStudio)
