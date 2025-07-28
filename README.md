@@ -19,6 +19,10 @@ FTXUI 是一个功能强大的 C++ TUI (终端用户界面) 框架，但其官�
 
 如果这个项目对您有所帮助，您可以考虑赞助我，您的支持是我持续维护和改进此项目的最大动力！
 
-- ETH(Ethereum) : 0x888888cFcD5aD452F18330ea2686c9389d57A32e
-- USDT(TRC-20)  : TGMPjDRU92JYjidTu6tRuqZezqrNhWZcYS
-- Nano          : nano_1n4ghbb36h6qnpb88cebbfaarpr34u7qeetxptu9jdgxkr3goaj1hjstda1n
+- ETH(Ethereum) : `0x888888cFcD5aD452F18330ea2686c9389d57A32e`
+- USDT(TRC-20)  : `TGMPjDRU92JYjidTu6tRuqZezqrNhWZcYS`
+- Nano          : `nano_1n4ghbb36h6qnpb88cebbfaarpr34u7qeetxptu9jdgxkr3goaj1hjstda1n`
+
+## 官方频道
+
+(冥河工作室)[https://t.me/StyxTechStudio]
